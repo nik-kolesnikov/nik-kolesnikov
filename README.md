@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hello! I'm Nik 👋
 
-<!--
-**nik-kolesnikov/nik-kolesnikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a Mobile Developer (Android)
+[![wakatime](https://wakatime.com/badge/user/48eaa268-b86c-4400-b5da-d17f0b12b722.svg)](https://wakatime.com/@48eaa268-b86c-4400-b5da-d17f0b12b722)
+---
 
-Here are some ideas to get you started:
+### 🛠 My stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Compose-4285F4?logo=android&logoColor=white)
+
+*   **Architecture:** MVVM, MVI, Clean Architecture
+*   **DI:** Koin
+*   **Database:** Room
+*   **Networking:** Retrofit / OkHttp
+*   **Asynchronous:** Coroutines, Flow
+*   **Serialization**: kotlinx.serialization
+---
+### 🏅 My achievements:
+- PROD'26 olympiad finalist
+- VK Testers ex. Top-100 tester
+- dreamlab by VK graduate
+---
+
+More info coming soon... 💫
